@@ -19,7 +19,7 @@ const getIP = async (req) => {
   "City: " + clientCI + "\n" + 
   "Region: " + clientRE + "\n" + 
   "Latitude, Longitude: " + clientLAT + "," + clientLON + "\n" + 
-  "Postal Code: " + clientPC + "\n" + 
+  "Zipcode: " + clientPC + "\n" + 
   "Timezone: " + clientTZ + "\n" + 
   "User Agent: " + clientUA + "\n"
   );
