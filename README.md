@@ -6,6 +6,7 @@ Simple way to get IP Address as well as additional client information
 
 # Demo
 
+```
 Public IP: XXX.XXX.XXX.XXX
 ASN: XXX
 ISP: XXXXXX
@@ -16,6 +17,7 @@ Latitude, Longitude: XX,XX
 Postal Code: XXXX
 Timezone: XXXXX
 User Agent: XXXXXXX
+```
 
 # Run
 
