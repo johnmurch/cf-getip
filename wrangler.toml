@@ -1,3 +1,12 @@
-name = "cf-getip"
+name = "cf-suggest"
 main = "src/index.js"
 compatibility_date = "2022-09-09"
+
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AZhqASQgMWM3YjU5Y2YtNjYwMC00ZDBiLThjZDUtNjI3YzNiODgyMThlMjFmZjhhYmU3MjYzNDE0OGFmNTQ1YjgxM2U0ZmU4N2M="
+UPSTASH_REDIS_REST_URL = "https://us1-workable-husky-39018.upstash.io"
+
+#[[r2_buckets]]
+#binding = 'MY_BUCKET' 
+#bucket_name = 'query-dumper-dev'

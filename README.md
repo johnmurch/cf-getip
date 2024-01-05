@@ -1,8 +1,8 @@
-# cf-getip
-Cloudflare worker for showing ip address and other details
+# cf-suggest
+Cloudflare worker for scraping Keyword Suggest (Google, Brave, etc.)
 
 # About
-Simple way to get IP Address as well as additional client information
+Simple way to scrape suggest
 
 # Demo
 
